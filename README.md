@@ -21,7 +21,7 @@
     - Treesitter
     - Mini-hipatterns
     - Telescope
-    - Lazy Git
+    - Lazy Git - [Learn More Here](https://www.youtube.com/watch?v=CPLdltN7wgE)
     - Nvim tree
     - Vim DadBod
     - Incremental Rename & Refactoring
