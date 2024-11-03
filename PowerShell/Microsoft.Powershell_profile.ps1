@@ -3,6 +3,8 @@ Set-Alias tt tree
 Set-Alias ll ls
 Set-Alias g git
 Set-Alias vim nvim
+Set-Alias n nvim
+Set-Alias cc clear
 
 #Prompt
 Clear-Host
